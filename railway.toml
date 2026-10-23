@@ -1,0 +1,4 @@
+[deploy]
+healthcheckPath = "/health.json"
+healthcheckTimeout = 120
+restartPolicyType = "on_failure"

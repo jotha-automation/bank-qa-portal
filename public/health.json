@@ -1,0 +1,7 @@
+{
+  "status": "ok",
+  "app": "bank-qa-portal",
+  "req": "INC1353166",
+  "suite": "DAV_PORTAL_EMPRESARIAL / Inscripciones ACH",
+  "description": "Mock portal empresarial para pruebas autónomas APTP"
+}

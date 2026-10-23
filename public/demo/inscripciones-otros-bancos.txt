@@ -1,0 +1,2 @@
+NIT|8006007002|Servicios|Generales SAS|REF-ACH-001|CUENTAS CORRIENTES OTROS BANCOS|1082869975|BBVA|5000000|finanzas@servicios.co|Laura|Mesa de pagos
+NIT|8300035425|Inversiones|Pacífico|REF-ACH-002|CUENTAS AHORRO OTROS BANCOS|6841313|BBVA|2500000|tesoreria@inversiones.co|Carlos|Director Financiero
